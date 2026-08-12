@@ -13,6 +13,7 @@
 - 🌏 Developer based in **Taiwan**
 - 💻 Focused on **Web Development** — building clean, modern full-stack applications
 - 🔐 Passionate about **Security** — web security, reverse engineering, and understanding how systems break
+- 🤖 Embracing **Vibe Coding** — AI-assisted development, from prompt to production
 - 🌱 Always learning new technologies and sharpening my offensive & defensive security skills
 - 🤝 Open to collaborating on web and security-related projects
 
