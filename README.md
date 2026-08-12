@@ -41,9 +41,10 @@
 
 <div align="center">
 
-![formosora's GitHub stats](https://github-readme-stats.vercel.app/api?username=formosora&show_icons=true&theme=tokyonight&hide_border=true)
+![Profile Details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=formosora&theme=tokyonight)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=formosora&layout=compact&theme=tokyonight&hide_border=true)
+![Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=formosora&theme=tokyonight)
+![Top Langs](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=formosora&theme=tokyonight)
 
 ![GitHub Streak](https://streak-stats.demolab.com/?user=formosora&theme=tokyonight&hide_border=true)
 
