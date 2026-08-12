@@ -13,8 +13,9 @@
 - 🌏 Developer based in **Taiwan**
 - 💻 Focused on **Web Development** — building clean, modern full-stack applications
 - 🔐 Passionate about **Security** — web security, reverse engineering, and understanding how systems break
+- 🧠 Deeply interested in **system kernels & low-level internals** (Windows kernel, hypervisors) — and continuously learning
 - 🤖 Embracing **Vibe Coding** — AI-assisted development, from prompt to production
-- 🌱 Always learning new technologies and sharpening my offensive & defensive security skills
+- 🌱 Always sharpening my offensive & defensive security skills
 - 🤝 Open to collaborating on web and security-related projects
 
 ## 💻 Languages
@@ -52,7 +53,7 @@
 ![Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=formosora&theme=tokyonight)
 ![Top Langs](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=formosora&theme=tokyonight)
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=formosora&theme=tokyonight&hide_border=true)
+![Most Commit Language](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=formosora&theme=tokyonight)
 
 </div>
 
