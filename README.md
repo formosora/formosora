@@ -10,7 +10,7 @@
 
 ## 🚀 About Me
 
-- 🌏 Developer based in **Taiwan**
+- 🌏 Developer based in **Taiwan** — developing & learning for nearly a decade
 - 💻 Focused on **Web Development** — building clean, modern full-stack applications
 - 🔐 Passionate about **Security** — web security, reverse engineering, and understanding how systems break
 - 🧠 Deeply interested in **system kernels & low-level internals** (Windows kernel, hypervisors) — and continuously learning
